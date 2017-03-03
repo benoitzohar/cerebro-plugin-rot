@@ -10,12 +10,13 @@ In Cerebro, type `rot` to encode your input using rot13(). Use <kbd>⌘+C</kbd> 
 
 * `rot [input]`
 
-Ex: `rot example`
-
-  => `rknzcyr`
+Ex: `rot example` => `rknzcyr`
 
 
- More infos about `rot13` here: (https://wikipedia.org/wiki/ROT13](https://wikipedia.org/wiki/ROT13)
+This plugin is using the [rot](https://www.npmjs.com/package/rot) node module to encode the data.
+
+
+ More infos about `rot13` here: [https://wikipedia.org/wiki/ROT13](https://wikipedia.org/wiki/ROT13)
 
 ## Installing
 
