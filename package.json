@@ -1,9 +1,9 @@
 {
     "name": "cerebro-rot",
-    "version": "0.1.1",
+    "version": "0.1.3",
     "description": "Cerebro plugin to rot13 input",
     "license": "MIT",
-    "repository": "benoitzohar/cerebro-plugin-rot",
+    "repository": "benoitzohar/cerebro-rot13",
     "author": {
         "name": "Benoit Zohar",
         "email": "benoit.zohar@gmail.com"
