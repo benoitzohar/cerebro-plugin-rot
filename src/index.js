@@ -15,11 +15,11 @@ const plugin = ({term, display, actions}) => {
                 title: `rot13(${valueToRot}) = ${rottedValue}`,
                 id,
                 icon,
+                clipboard: rottedValue,
                 subtitle: 'Press enter to copy value to clipboard',
                 onSelect: () => {
                     actions.copyToClipboard(rottedValue)
                 }
-
             })
         }
     }

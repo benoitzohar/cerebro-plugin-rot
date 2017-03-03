@@ -6,7 +6,7 @@
 
 ## Usage
 
-In Cerebro, type `rot` to rotate your input. Use <kbd>⌘+C</kbd> or <kbd>↩</kbd> to copy IP to clipboard.
+In Cerebro, type `rot` to encode your input using rot13(). Use <kbd>⌘+C</kbd> or <kbd>↩</kbd> to copy the encoded value to clipboard.
 
 * `rot [input]`
 
