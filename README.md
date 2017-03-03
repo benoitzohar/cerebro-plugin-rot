@@ -1,4 +1,4 @@
-# cerebro-plugin-rot
+# cerebro-rot13
 
 > [Cerebro](https://cerebroapp.com) plugin to rot13 input
 
