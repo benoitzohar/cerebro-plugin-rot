@@ -1,6 +1,6 @@
 {
     "name": "cerebro-rot13",
-    "version": "0.1.4",
+    "version": "0.1.5",
     "description": "Cerebro plugin to rot13 input",
     "license": "MIT",
     "repository": "benoitzohar/cerebro-rot13",
