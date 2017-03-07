@@ -1,7 +1,7 @@
 {
     "name": "cerebro-rot13",
     "version": "0.1.5",
-    "description": "Cerebro plugin to rot13 input",
+    "description": "Cerebro plugin to encode/decode input with rot13()",
     "license": "MIT",
     "repository": "benoitzohar/cerebro-rot13",
     "author": {
